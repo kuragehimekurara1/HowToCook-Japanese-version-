@@ -1,36 +1,37 @@
-# 程序员做饭指南
+# プログラマーのための料理ガイド
 
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 
-最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
+最近は自宅待機で外出できません。 家にいて料理をすることしかできません。 プログラマーとして、
+時々インターネットでレシピやレシピを探します。 ただし、これらのレシピはいろんなことが書かれていることが多く、途中で何かわからない食材が出てくることがよくあります。 プログラミング言語(java言語やC言語など・・・)に慣れているプログラマーには非常に不親切です。
 
-所以，我计划自己搜寻菜谱并结合实际做菜的经验，准备用更清晰精准的描述来整理常见菜的做法，以方便程序员在家做饭。
+そこで、自分でレシピを探し、実際に料理をした経験と合わせて、プログラマーが家庭で料理をしやすいように、一般的な料理をよりわかりやすく、より正確に、日本語で説明したものを用意する予定です。
 
-同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
+同様に、これがコミュニティによって推進および維持されるオープンソースプロジェクトであり、より多くの人々が興味深いリポジトリを一緒に作成できるようになることを願っています。 なので、どなたでもご応募大歓迎です～
 
-## 如何贡献
+## 貢献する方法
 
-针对发现的问题，直接修改并提交 Pull request 即可。
+材料の分量や新たなレシピの追加については、修正や追加をしてプルリクエストを送信してください。
 
-在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
+新しいレシピを書くときは、既存のレシピ テンプレートをコピーして変更してください：[サンプル料理](https://github.com/kuragehimekurara1/HowToCook-Japanese-version-/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md)。
 
-## 做菜之前
+## 調理前
 
-- [厨房准备](./tips/厨房准备.md)
-- [如何选择现在吃什么](./tips/如何选择现在吃什么.md)
-- [高压力锅](./tips/learn/高压力锅.md)
-- [去腥](./tips/learn/去腥.md)
-- [食品安全](./tips/learn/食品安全.md)
-- [微波炉](./tips/learn/微波炉.md)
-- [学习焯水](./tips/learn/学习焯水.md)
-- [学习炒与煎](./tips/learn/学习炒与煎.md)
-- [学习凉拌](./tips/learn/学习凉拌.md)
-- [学习腌](./tips/learn/学习腌.md)
-- [学习蒸](./tips/learn/学习蒸.md)
-- [学习煮](./tips/learn/学习煮.md)
+- [キッチンの準備](./tips/厨房准备.md)
+- [今食べるものを選ぶ](./tips/如何选择现在吃什么.md)
+- [高圧鍋](./tips/learn/高压力锅.md)
+- [怪しげな](./tips/learn/去腥.md)
+- [食品の安全](./tips/learn/食品安全.md)
+- [電子レンジ](./tips/learn/微波炉.md)
+- [お湯を沸かすこと方法を学ぶ](./tips/learn/学习焯水.md)
+- [炒め物と揚げ物について学ぶ](./tips/learn/学习炒与煎.md)
+- [サラダについて学ぶ](./tips/learn/学习凉拌.md)
+- [ピクルスについて学ぶ](./tips/learn/学习腌.md)
+- [蒸すことについて学ぶ](./tips/learn/学习蒸.md)
+- [料理を習う](./tips/learn/学习煮.md)
 
 ## 菜谱
 
